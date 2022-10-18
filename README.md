@@ -7,7 +7,20 @@ We delivered Steve a workbook where at the click of a button he can analyze an e
 
 ### Result:
 
-use images and examples of code to compare stock performance between 2017 and 2018
+#### Examples of Code:
+
+In the following code we set up the variable "Ticker/Tickers" to correspond with the different stocks we would be running through.  Then we set up the RowCount, tickerIndex, tickerVolume, tickerStartPrice, and tickerEndingPrice.
+
+<img width="647" alt="Tickers and set up" src="https://user-images.githubusercontent.com/111904266/196484435-d62de04b-bd2b-4d2c-880d-a26c798da599.png">
+
+
+We then ran this code through the dataset finding the Volume, Start Price, and End Price for each ticker.
+
+<img width="835" alt="Script to run through data" src="https://user-images.githubusercontent.com/111904266/196484800-23d1e631-af8c-47b5-8e45-2bcb118e04d3.png">
+
+the following code is the data filling out a table on a worksheet when the user selects the year.
+
+<img width="734" alt="Output the data " src="https://user-images.githubusercontent.com/111904266/196485015-66e7340f-43b5-4bd8-aa04-8578a04a9d89.png">
 
 
 #### Execution times of original script
