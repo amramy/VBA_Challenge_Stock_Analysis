@@ -9,13 +9,19 @@ We delivered Steve a workbook where at the click of a button he can analyze an e
 
 use images and examples of code to compare stock performance between 2017 and 2018
 
+
 #### Execution times of original script
 
-Resources/Green_Stocks_2017.png
+![Green_Stocks_2017](https://user-images.githubusercontent.com/111904266/196477943-de4546ad-45e8-44f9-8f7e-092e2c6d416b.png)
+
+![Green_Stocks_2018](https://user-images.githubusercontent.com/111904266/196478046-a30b3aa5-85e6-4f3f-8bfd-6fd57df92209.png)
 
 
 #### Execution times of refactored script 
 
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/111904266/196478103-c1f291e4-cc22-4788-8999-63c79e037f1b.png)
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/111904266/196478127-b3b6fe71-27ba-4a52-8b4b-70b1e4fedae2.png)
 
 
 ### Summary:
