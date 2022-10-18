@@ -11,6 +11,7 @@ use images and examples of code to compare stock performance between 2017 and 20
 
 #### Execution times of original script
 
+Resources/Green_Stocks_2017.png
 
 
 #### Execution times of refactored script 
